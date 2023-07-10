@@ -169,3 +169,14 @@ main {
 .hidden {
   display: none;
 }
+@media screen and (max-width: 450px) {
+
+  
+  html {
+    width: 100%;
+    font-size: 6px;
+    box-sizing: border-box;
+  }
+  
+  
+    }
